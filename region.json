@@ -1,0 +1,89 @@
+{
+    "records":[
+       {
+          "regionId":1,
+          "regionName":"REGION I (ILOCOS REGION)",
+          "psgcCode":"010000000"
+       },
+       {
+          "regionId":2,
+          "regionName":"REGION II (CAGAYAN VALLEY)",
+          "psgcCode":"020000000"
+       },
+       {
+          "regionId":3,
+          "regionName":"REGION III (CENTRAL LUZON)",
+          "psgcCode":"030000000"
+       },
+       {
+          "regionId":4,
+          "regionName":"REGION IV-A (CALABARZON)",
+          "psgcCode":"040000000"
+       },
+       {
+          "regionId":5,
+          "regionName":"MIMAROPA REGION",
+          "psgcCode":"170000000"
+       },
+       {
+          "regionId":6,
+          "regionName":"REGION V (BICOL REGION)",
+          "psgcCode":"050000000"
+       },
+       {
+          "regionId":7,
+          "regionName":"REGION VI (WESTERN VISAYAS)",
+          "psgcCode":"060000000"
+       },
+       {
+          "regionId":8,
+          "regionName":"REGION VII (CENTRAL VISAYAS)",
+          "psgcCode":"070000000"
+       },
+       {
+          "regionId":9,
+          "regionName":"REGION VIII (EASTERN VISAYAS)",
+          "psgcCode":"080000000"
+       },
+       {
+          "regionId":10,
+          "regionName":"REGION IX (ZAMBOANGA PENINSULA)",
+          "psgcCode":"090000000"
+       },
+       {
+          "regionId":11,
+          "regionName":"REGION X (NORTHERN MINDANAO)",
+          "psgcCode":"100000000"
+       },
+       {
+          "regionId":12,
+          "regionName":"REGION XI (DAVAO REGION)",
+          "psgcCode":"110000000"
+       },
+       {
+          "regionId":13,
+          "regionName":"REGION XII (SOCCSKSARGEN)",
+          "psgcCode":"120000000"
+       },
+       {
+          "regionId":14,
+          "regionName":"NATIONAL CAPITAL REGION (NCR)",
+          "psgcCode":"130000000"
+       },
+       {
+          "regionId":15,
+          "regionName":"CORDILLERA ADMINISTRATIVE REGION (CAR)",
+          "psgcCode":"140000000"
+       },
+       {
+          "regionId":16,
+          "regionName":"AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+          "psgcCode":"150000000"
+       },
+       {
+          "regionId":17,
+          "regionName":"REGION XIII (Caraga)",
+          "psgcCode":"160000000"
+       }
+    ]
+ }
